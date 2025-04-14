@@ -1,10 +1,10 @@
 {
   "name": "auth-mock-example",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Repositorio para la evidencia GA7-220501096-AA5-EV01 del programa de ADSO SENA 2025",
+  "author": "luifap & DtaboSENA",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "MIT",
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
